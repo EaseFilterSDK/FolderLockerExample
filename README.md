@@ -4,3 +4,5 @@ The folder locker example was implemented with the Transparent File Encryption a
 
 ![File Monitor](https://www.easefilter.com/images/FolderLockerSettings.PNG)
 
+[Read more about folder locker example](https://www.easefilter.com/Forums_Files/FolderLocker.htm)
+
